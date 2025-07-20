@@ -17,6 +17,7 @@ typechain-types/
 *.swp
 *.swo
 
+
 # Log files
 logs/
 *.log
