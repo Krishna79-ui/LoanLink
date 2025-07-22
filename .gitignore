@@ -2,9 +2,6 @@
 node_modules/
 .env
 package-lock.json
-
-  
-
 # Hardhat artifacts
 artifacts/
 cache/
@@ -16,11 +13,10 @@ typechain-types/
 *.iml
 *.swp
 *.swo
-
-
 # Log files
 logs/
 *.log
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
