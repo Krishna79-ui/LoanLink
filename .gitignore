@@ -7,6 +7,7 @@ artifacts/
 cache/
 typechain-types/
 
+
 # IDE files
 .vscode/
 .idea/
