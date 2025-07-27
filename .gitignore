@@ -9,6 +9,7 @@ typechain-types/
 # IDE files
 .vscode/
 .idea/
+
 *.iml
 *.swp
 *.swo
