@@ -1,4 +1,3 @@
-
 # Dependency directories
 node_modules/
 .env
@@ -10,8 +9,6 @@ typechain-types/
 # IDE files
 .vscode/
 .idea/
-
-
 *.iml
 *.swp
 *.swo
