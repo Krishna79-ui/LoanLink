@@ -14,6 +14,7 @@ typechain-types/
 *.swp
 *.swo
 # Log files
+
 logs/
 *.log
 npm-debug.log*
