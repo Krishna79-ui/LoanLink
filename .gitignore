@@ -11,6 +11,7 @@ typechain-types/
 .idea/
 *.iml
 *.swp
+
 *.swo
 # Log files
 logs/
