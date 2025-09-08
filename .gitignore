@@ -1,7 +1,6 @@
 # Dependency directories
 node_modules/
 .env
-
 package-lock.json
 # Hardhat artifacts
 artifacts/
@@ -13,8 +12,6 @@ typechain-types/
 *.iml
 *.swp
 *.swo
-
-
 # Log files
 logs/
 *.log
