@@ -5,7 +5,9 @@ package-lock.json
 # Hardhat artifacts
 artifacts/
 cache/
+
 typechain-types/
+
 # IDE files
 .vscode/
 .idea/
