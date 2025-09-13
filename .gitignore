@@ -7,7 +7,6 @@ package-lock.json
 artifacts/
 cache/
 
-
 typechain-types/
 
 # IDE files
@@ -18,6 +17,7 @@ typechain-types/
 *.swo
 # Log files
 logs/
+
 
 *.log
 npm-debug.log*
