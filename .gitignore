@@ -6,9 +6,7 @@ package-lock.json
 # Hardhat artifacts
 artifacts/
 cache/
-
 typechain-types/
-
 # IDE files
 .vscode/
 .idea/
@@ -17,7 +15,6 @@ typechain-types/
 *.swo
 # Log files
 logs/
-
 *.log
 npm-debug.log*
 yarn-debug.log*
