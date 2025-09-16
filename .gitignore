@@ -12,10 +12,10 @@ typechain-types/
 .idea/
 *.iml
 *.swp
-
 *.swo
 # Log files
 logs/
+
 *.log
 npm-debug.log*
 yarn-debug.log*
